@@ -49,7 +49,9 @@ nav ul li a:hover {
     color: #c0d96f
 }
 
-
+.image img {
+    width:100%
+}
 /* .navbar {
     background-color: purple;
 } */
